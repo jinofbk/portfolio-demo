@@ -97,7 +97,7 @@ footer {{ margin-top: 28px; color: var(--sub); font-size: 13px }}
   <ul class="more">
 {cards}
   </ul>
-  <footer>소스: <a href="https://github.com/Ellencia/portfolio-demo" style="color:inherit">github.com/Ellencia/portfolio-demo</a></footer>
+  <footer>소스: <a href="https://github.com/jinofbk/portfolio-demo" style="color:inherit">github.com/jinofbk/portfolio-demo</a></footer>
 </main>
 </body>
 </html>
